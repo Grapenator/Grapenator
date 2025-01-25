@@ -2,7 +2,7 @@
 My name's Phillip, I'm a Senior at Sac State University studying Computer Science. I love solving problems and creating impactful solutions for others around me. 
 
 ### 💻 Featured Projects
-- **[Recipe App](https://github.com/Grapenator/Recipe-App)**: Description
+- **[Recipe App](https://github.com/Grapenator/Recipe-App)**: A user-friendly web application designed to simplify meal planning and cooking.
 
 ### 📚 Tech Stack
 - Python, Java, JavaScript, C/C++
