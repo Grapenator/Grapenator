@@ -6,7 +6,9 @@ My name's Phillip, I'm a Senior at Sac State University studying Computer Scienc
 
 ### 📚 Tech Stack
 - Python, Java, JavaScript, C/C++
-- Flask, React, MongoDB
+- Flask, React
+- Amazon Web Services (AWS)
+- MongoDB
   
 ### 📫 Contact Me
 [LinkedIn](https://www.linkedin.com/in/phillip-lyasota/) | [E-mail](mailto:phillipninja@gmail.com)
