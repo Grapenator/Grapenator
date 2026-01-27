@@ -6,7 +6,7 @@ My name's Phillip, I'm a Senior at Sac State University studying Computer Scienc
 - **[Recipe App](https://github.com/Grapenator/Recipe-App)** – A user-friendly web application designed to simplify meal planning and cooking.
 
 ### 📚 Tech Stack
-- Languages: Python, Java, JavaScript, C
+- Languages: Python, GoLang, Java, JavaScript, C
 - Frameworks: FastAPI, Flask, React
 - Cloud & Tools: Amazon Web Services (AWS), Vercel, Render
 - Databases: MongoDB, PostgreSQL
