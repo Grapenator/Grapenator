@@ -1,5 +1,5 @@
 ## 👋 Welcome! 
-My name's Phillip, I'm a Senior at Sac State University studying Computer Science. I love solving problems and creating impactful solutions for others around me. 
+My name's Phillip, I graduated with a Computer Science BS from Sacramento State University. I love solving problems and creating impactful solutions for others around me. 
 
 ### 💻 Featured Projects
 - **[Auto Scans AI](https://github.com/Grapenator/car-damage-ai)** – An AI-powered web app that analyzes vehicle photos to detect and describe vehicle damage using a FastAPI backend and React frontend.
